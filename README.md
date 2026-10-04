@@ -239,4 +239,4 @@ This repository serves as the official landing page for ShareX. The software is 
 **Get the most recent version of ShareX today!**
 
 ---
-**Last updated:** 2026-10-04 03:59:40 UTC
+**Last updated:** 2026-10-04 10:30:41 UTC
